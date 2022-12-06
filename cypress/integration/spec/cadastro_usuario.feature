@@ -22,11 +22,3 @@ Funcionalidade: Cadastro de Usuario
     Cenario: Excluir Cadastro
      Quando solicito a exclusão do usuario desejado
      Entao o "id_usuario" nao devera estar na "lista_usuario" 
-
-
-
-
-
-# Dado ou Given == Pré requisito
-# Quando ou When == Ações
-# Então ou Then == validações das ações 

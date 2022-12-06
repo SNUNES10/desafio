@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+/reports/json/*
+/reports/html/*
+/reports/screenshots/specs/*
